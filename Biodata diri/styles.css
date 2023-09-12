@@ -34,9 +34,10 @@ button{
      border: none;
      padding: 5px;
      border-radius: 5px;
-     cursor: pointer;
-     transition: background-color 0.3s ease;
+     cursor: pointer;/* mengubah cursor saat diarahkan ke tombol*/
+     transition: background-color 0.3s ease; /* memberikan jangka waktu saat menghover cursos*/
 }
+/* Kode CSS untuk mengubah tampilan tombol saat dihover*/
 button:hover{
      background-color: black;
      color: white;
