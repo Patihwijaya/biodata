@@ -1,0 +1,43 @@
+body{
+     text-align: center;
+}
+.profil{
+     border: 5px solid black;
+     border-radius: 50%;
+     width: 100px;
+     height: 100px;
+     margin: 0 auto;
+}
+img{
+     width: 100px;
+     height: 100px;
+     border-radius: 50%;
+}
+.kotak{
+     background-color: rgb(210, 243, 243);
+     margin: 0 auto;
+     width: 500px;
+     height: 500px;
+}
+h1{
+     font-size: 30px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: normal;
+}
+p{
+     text-align: justify;
+     font-family: Arial, Helvetica, sans-serif;
+     padding: 20px;
+}
+button{
+     background-color: rgb(210, 243, 243);
+     border: none;
+     padding: 5px;
+     border-radius: 5px;
+     cursor: pointer;
+     transition: background-color 0.3s ease;
+}
+button:hover{
+     background-color: black;
+     color: white;
+}

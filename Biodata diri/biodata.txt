@@ -1,0 +1,5 @@
+membuat biodata diri
+
+1.menampilkan foto profil
+2.menampilkan nama dan deskripsi diri
+3.akun media sosial
